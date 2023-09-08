@@ -407,7 +407,7 @@ input[type="checkbox"]:checked
     position: relative;
     object-fit: cover;
     margin: auto;
-    bottom: -10px;
+    bottom: -40px;
     margin-top: -140px;
     max-width: 350px;
   }
